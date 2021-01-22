@@ -4,6 +4,7 @@
 
 ## Day1
 
-    - [ ] Delete Binary Tree
-    - [ ] Delete Node In LinkedList
-    - [ ] Two City Scheduling
+- [ ] Delete Binary Tree
+- [ ] Delete Node In LinkedList
+- [ ] Two City Scheduling
+
