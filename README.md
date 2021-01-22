@@ -4,7 +4,6 @@
 
 ## Day1
 
-- [ ] Delete Binary Tree
-- [ ] Delete Node In LinkedList
-- [ ] Two City Scheduling
-
+- [x] Invert Binary Tree
+- [x] Delete Node In LinkedList
+- [x] Reverse String
