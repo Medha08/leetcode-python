@@ -13,3 +13,9 @@
 - [x] Convert Binary Number in a Linked List to Integer
 - [x] Merge In Between
 - [x] Middle Of LL
+
+## Day3 24 Jan 2021
+
+- [x] Search In BST
+- [ ]
+- [ ]
