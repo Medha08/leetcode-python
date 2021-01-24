@@ -17,5 +17,5 @@
 ## Day3 24 Jan 2021
 
 - [x] Search In BST
-- [ ]
-- [ ]
+- [x] Right Side View
+- [x] Diameter of BinaryTree
