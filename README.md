@@ -1,6 +1,4 @@
-# LeetCodeExtreme
 
-3 Questions A Day
 
 ## Day1 22 Jan 2021
 
